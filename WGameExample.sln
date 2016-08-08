@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WGameExample", "WGameExample\WGameExample.csproj", "{58C94970-A69A-48F5-A81B-79DD41DD250D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WGameConsole", "WGameConsole\WGameConsole.csproj", "{3B8A5C7D-DE09-4349-BD73-C81BAD9F6337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C94970-A69A-48F5-A81B-79DD41DD250D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C94970-A69A-48F5-A81B-79DD41DD250D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C94970-A69A-48F5-A81B-79DD41DD250D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C94970-A69A-48F5-A81B-79DD41DD250D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8A5C7D-DE09-4349-BD73-C81BAD9F6337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8A5C7D-DE09-4349-BD73-C81BAD9F6337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8A5C7D-DE09-4349-BD73-C81BAD9F6337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8A5C7D-DE09-4349-BD73-C81BAD9F6337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
